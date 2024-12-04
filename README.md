@@ -46,7 +46,6 @@ This project addresses a critical business question: "What factors contribute to
    - Use `bg.svg` as the background image for your dashboard or you can create your own background.
 4. **Python**:
    - I have used Jupyter Notebook,you may use any tool as you wish.
-     ```
    - Run the `ChurnPrediction.ipynb` notebook to train the model and generate predictions, which are saved to `predictions.csv`.
 5. **Data Integration**:
    - Use the `Predictions.csv` file to visualize predicted data in Power BI.
