@@ -18,7 +18,8 @@ This project aims to analyze customer churn using a combination of SQL Server fo
 
 ## Introduction
 This project addresses a critical business question: "What factors contribute to customer churn, and how can we predict and prevent it?"
-                 Key components of the project:
+  
+  Key components of the project:
 - ETL process in SQL Server
 - Data Cleaning in SQL Server
 - Creating views in SQL for predictions
