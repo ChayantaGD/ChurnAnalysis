@@ -59,10 +59,11 @@ This project addresses a critical business question: "What factors contribute to
 - Integrate the predicted churn data from `predictions.csv` back into Power BI for comprehensive analysis.
 
 ## Recommendations
-High-risk customer segments: Identify groups with above-average churn rates
-Retention strategies: Analyze successful retention cases for insights
-Product improvements: Investigate features or services correlated with lower churn
-Customer journey mapping: Examine touchpoints that influence churn decisions
+- High-risk customer segments: Identify groups with above-average churn rates
+- Retention strategies: Analyze successful retention cases for insights
+- Product improvements: Investigate features or services correlated with lower churn
+- Customer journey mapping: Examine touchpoints that influence churn decisions
+  
 By focusing on these areas, teams can develop targeted strategies to reduce churn and improve customer retention.
 
 ## Real-World Applications
